@@ -1,6 +1,5 @@
 # BBMS
 
-![alt](images/home.png)
 
 Blood Bank Management System (BBMS) is a web-based application designed to efficiently manage blood donations, donors, and recipients. It provides an integrated platform for donors and recipients to ensure the availability of safe and life-saving blood for those in need.
 
