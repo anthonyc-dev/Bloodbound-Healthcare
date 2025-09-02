@@ -143,9 +143,9 @@ Contributions are always welcome! If you'd like to contribute to the project, pl
    ```
 4. Create a pull request on the original repository's `main` branch.
 
-## License
-
-This project is licensed under the [MIT License](https://github.com/venkatasai24/BBMS/blob/main/LICENSE).
+---
+## Credits
+- Developed by **[Anthony Crausus](https://github.com/anthonyc-dev)**
 
 
 
